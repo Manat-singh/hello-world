@@ -1,2 +1,2 @@
 # hello-world
-checking and exploring
+checking and exploring some features of basic git.
